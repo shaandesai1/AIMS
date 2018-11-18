@@ -169,7 +169,7 @@ int main () {
     int i,x;
     char strin[100];
     // for vigenere cipher/ can be changed to anything
-    char keyval[] = "c";
+    char keyval[] = "newyork";
     cout << "please enter a string:\t";
     cin >> strin;
     
